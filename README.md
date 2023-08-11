@@ -1,5 +1,5 @@
 
-#  House Price Prediction
+# Project: House Price Prediction
 
 ## Project Overview
 This project aims to predict house prices in the Boston area using machine learning techniques. It is based on the famous Boston Housing Dataset, which contains various features related to housing, such as crime rate, average number of rooms, and more. By building a predictive model, this project provides insights into understanding the factors influencing house prices in the Boston real estate market.
